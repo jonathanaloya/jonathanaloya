@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate and driven software developer with a strong foundation in modern web technologies. I'm currently pursuing Web and Computer Programming and Web Development certificates at **Brigham Young University–Idaho** through the **BYU–Pathway Worldwide** program.
+I'm a passionate and driven software developer with a strong foundation in modern web technologies. I'm currently pursuing my Software Development degree at **Brigham Young University–Idaho** through the **BYU–Pathway Worldwide** program.
 
 My journey into software development began from a deep curiosity about how technology shapes the world around us. Over time, I have developed a particular interest in building scalable, user-friendly web applications. I enjoy solving real-world problems with code, and I'm constantly exploring new tools, frameworks, and best practices.
 
@@ -47,8 +47,8 @@ Whether it’s crafting efficient UI, optimizing code for speed, or mentoring ot
 
 ## 📂 Projects & Work
 
-### 🛒 [Online Shopping App](https://github.com/jonathanaloya/online-shop)
-A modern e-commerce application built using **Next.js 15**, **React**, and **TypeScript**.  
+### 🛒 [Online Shopping App](https://github.com/jonathanaloya/e-comm)
+A modern e-commerce application built using **Next.js 15**, **React**, and **Javascript**.  
 **Features:**  
 - Server-side rendering and static generation  
 - Integration with SQL database  
@@ -81,4 +81,4 @@ Worked as a Data Entry Clerk at EngSol "U" Ltd., handling sensitive contract and
 - 📧 jonathanaloya27@gmail.com  
 - 🧰 [GitHub Repositories](https://github.com/jonathanaloya?tab=repositories)
 
-Thanks for visiting! ✨
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding and thanks for visiting! ✨
